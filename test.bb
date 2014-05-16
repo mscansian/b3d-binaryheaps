@@ -1,3 +1,5 @@
+Include "binaryheaps.bb"
+
 Graphics 800,600,16,2
 
 BinID% = BinaryHeap_New%(BinaryHeap_SORT_BIGGEST)
