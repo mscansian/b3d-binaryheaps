@@ -1,7 +1,7 @@
 ;;;;                    binaryheaps.bb V1.1
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;                      Matheus Cansian
-;;;;                     mscansian@gmail.com
+;;;;                  mscansian at gmail.com
 ;;;;
 ;;;; This LIB provide tools to create Binary Heaps ordered lists. It
 ;;;; can handle more than one simultaneous list and ascending and 
