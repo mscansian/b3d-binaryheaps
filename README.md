@@ -6,8 +6,8 @@ Binary Heaps implementation for Blitz3D
 Features
 ------------
 * Can handle multiple lists
-* Allows for ascending or descending order extraction
-* Includes a debug tool Draw() that makes a visual representation of the list and its elements
+* Allow ascending or descending order extraction
+* Include a debug tool 'Draw()' that creates a visual representation of the list and its elements
 
 License
 -----------
